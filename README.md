@@ -46,7 +46,7 @@ Java Developer From Kazakhstan</h3>
 ![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge&logo=apacherocketmq&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-%231572B6.svg?style=for-the-badge&logo=patternfly&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-%23FF6F00?style=for-the-badge&logo=solid&logoColor=white)
-![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![Algorithms & DataStructures](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
