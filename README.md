@@ -1,9 +1,9 @@
 ## Hi, I'm Ali 🔥
-Java Developer From Kazakhstan</h3>
+### Java Developer from Kazakhstan
 
 - 🧠 A passionate Java developer with a strong analytical mindset and a love for solving complex problems. I enjoy writing clean and maintainable code, and I’m always eager to learn new technologies. Skilled in backend development, database design, and building RESTful APIs
 
-- 🎓 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz), majoring in Software Engineerin
+- 🎓 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz), majoring in Software Engineering
 
 - 🔍 I'm actively looking for an **internship** or **job opportunity** to apply and grow my skills.
   
