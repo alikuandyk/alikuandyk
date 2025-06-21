@@ -56,6 +56,28 @@ Java Developer From Kazakhstan</h3>
 ![Unix](https://img.shields.io/badge/Unix-262577?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🎫 [Poster](https://github.com/alikuandyk/poster)  
+A microservice-based event management platform built with **Spring Boot** and **PostgreSQL**.  
+Includes REST API for publishing and tracking events, user and category management, and interaction tracking with **stat-service**.  
+Tech: Java, Spring Boot, PostgreSQL, REST, Swagger, Microservices.
+
+---
+
+### 🔄 [ShareIt](https://github.com/alikuandyk/shareit)  
+A service for **renting and sharing items**, with request management, availability checking, and booking features.  
+Implements complete CRUD operations and business logic for sharing-based interactions.  
+Tech: Java, Spring, JPA, PostgreSQL, REST API, Validation.
+
+---
+
+### 🎬 [Filmorate](https://github.com/alikuandyk/filmorate)  
+A backend application to manage films and user ratings with **recommendation logic**.  
+Supports user interactions, likes, and genre-based film organization with H2 DB for testing.  
+Tech: Java, Spring Boot, H2, REST API, Java Collections, Log4j.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alikuandyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alikuandyk&theme=dark&hide_border=false)<br/>
