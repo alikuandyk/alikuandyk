@@ -15,7 +15,7 @@ Java Developer From Kazakhstan</h3>
 
 - 📝 Get to know me better with my [CV](https://drive.google.com/file/d/1QsvlFYxL3tXP3XwYKMoaRvy-gEMbzjbp/view?usp=sharing)
 
-- 📫 Contact
+- 📫 Contact 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/alikuandyk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kuvaletako)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikuandyk/)
