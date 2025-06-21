@@ -57,7 +57,7 @@ Java Developer From Kazakhstan</h3>
 ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎫 [Poster](https://github.com/alikuandyk/poster)  
 A microservice-based event management platform built with **Spring Boot** and **PostgreSQL**.  
