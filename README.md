@@ -16,7 +16,7 @@
 - 📝 Get to know me better with my [CV](https://drive.google.com/file/d/1QsvlFYxL3tXP3XwYKMoaRvy-gEMbzjbp/view?usp=sharing)
 
 - 📫 Contact 
-[Telegram](https://t.me/alikuandyk)
+[Telegram](https://t.me/alikuandyk), 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kuvaletako)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikuandyk/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alikuandyk26@gmail.com)
