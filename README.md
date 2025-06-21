@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Java Developer From Kazakhstan</h3>
+## Hi, I'm Ali 🔥
+## Java Developer From Kazakhstan
 
-- 🧠 About Me A passionate Java developer with a strong analytical mindset and a love for solving complex problems. I enjoy writing clean and maintainable code, and I’m always eager to learn new technologies. Skilled in backend development, database design, and building RESTful APIs
+- 🧠 A passionate Java developer with a strong analytical mindset and a love for solving complex problems. I enjoy writing clean and maintainable code, and I’m always eager to learn new technologies. Skilled in backend development, database design, and building RESTful APIs
 
-- I'm currently a student at **Astana IT University**, majoring in Software Engineering [Astana IT University](https://astanait.edu.kz)
+- 🎓 I'm a bachelor's student at **Astana IT University**, majoring in Software Engineering [Astana IT University](https://astanait.edu.kz)
+
+- 🔍 I'm actively looking for an **internship** or **job opportunity** to apply and grow my skills.
+  
+- ♟️ I have an analytical mindset and excel at **strategic thinking**, **mathematics**, and **chess**.
+  
+- 🤝 I enjoy working in a **team**, I'm **communicative**, **goal-oriented**, and always show **initiative** and **leadership**.
 
 - 🌱 I’m currently learning **Redis and Kafka**
 
 - 📝 Get to know me better with my [CV](https://drive.google.com/file/d/1QsvlFYxL3tXP3XwYKMoaRvy-gEMbzjbp/view?usp=sharing)
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **https://t.me/alikuandyk**
-
-- ### 🧠 About Me **A passionate Java developer with a strong analytical mindset and a love for solving complex problems. I enjoy writing clean and maintainable code, and I’m always eager to learn new technologies. Skilled in backend development, database design, and building RESTful APIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
