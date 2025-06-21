@@ -3,7 +3,7 @@ Java Developer From Kazakhstan</h3>
 
 - 🧠 A passionate Java developer with a strong analytical mindset and a love for solving complex problems. I enjoy writing clean and maintainable code, and I’m always eager to learn new technologies. Skilled in backend development, database design, and building RESTful APIs
 
-- 🎓 I'm a bachelor's student at **Astana IT University**, majoring in Software Engineering [Astana IT University](https://astanait.edu.kz)
+- 🎓 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz), majoring in Software Engineerin
 
 - 🔍 I'm actively looking for an **internship** or **job opportunity** to apply and grow my skills.
   
