@@ -16,10 +16,7 @@
 - 📝 Get to know me better with my [CV](https://drive.google.com/file/d/1QsvlFYxL3tXP3XwYKMoaRvy-gEMbzjbp/view?usp=sharing)
 
 - 📫 Contact 
-[Telegram](https://t.me/alikuandyk), 
-[Instagram](https://instagram.com/kuvaletako), 
-[LinkedIn](https://www.linkedin.com/in/alikuandyk/), 
-[Gmail](mailto:alikuandyk26@gmail.com)
+[Telegram](https://t.me/alikuandyk) • [Instagram](https://instagram.com/kuvaletako) • [LinkedIn](https://www.linkedin.com/in/alikuandyk/) • [Gmail](mailto:alikuandyk26@gmail.com)
 
 # 💻 Tech Stack:
 
